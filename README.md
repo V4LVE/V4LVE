@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/Ezague">
+    <img src="https://komarev.com/ghpvc/?username=ezague&color=red" alt="Profile Views" />
+  </a>
+</p
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Colmorn
 =========================================================================================================================================
 
@@ -24,10 +30,18 @@ Fullstack Developer
 
 ### Badges
 
-<b>My GitHub Stats</b>
+### 📊 GitHub Stats  
 
-<a href="http://www.github.com/V4LVE"><img src="https://github-readme-stats.vercel.app/api?username=V4LVE&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="V4LVE's GitHub stats" /></a>
+<p align="center">
+  <a href="http://www.github.com/V4LVE"><img src="https://github-readme-stats.vercel.app/api?username=V4LVE&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="V4LVE's GitHub stats" /></a>
+</p>
 
-<a href="http://www.github.com/V4LVE"><img src="https://github-readme-streak-stats.herokuapp.com/?user=V4LVE&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <a href="https://github.com/V4LVE" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V4LVE&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
 
-<a href="https://github.com/V4LVE" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V4LVE&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img width=500 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V4LVE&theme=dracula" alt="Ezague's Profile Summary" />
+</p>
+
+
