@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Ezague">
-    <img src="https://komarev.com/ghpvc/?username=ezague&color=red" alt="Profile Views" />
-  </a>
-</p
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Colmorn
 =========================================================================================================================================
 
@@ -44,4 +38,9 @@ Fullstack Developer
   <img width=500 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V4LVE&theme=dracula" alt="Ezague's Profile Summary" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/V4LVE">
+    <img src="https://komarev.com/ghpvc/?username=V4LVE&color=red" alt="Profile Views" />
+  </a>
+</p
 
