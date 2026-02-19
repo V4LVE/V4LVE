@@ -7,7 +7,7 @@ Fullstack Developer
 * 🌍  I'm based in Denmark
 * 🖥️  See my portfolio at [ComingSoon](http://Comingsoon.dk)
 * ✉️  You can contact me at [alex802c@gmail.com](mailto:alex802c@gmail.com)
-* 🚀  I'm currently working on [RustRelay](https://rustrelay.com/)
+* 🚀  I'm currently working on [RustRelay](https://rustrelay.com/) and [Toftlund Airsoft](https://toftlund-airsoft.dk/)
 * 🧠  I'm learning GoLang
 
 ### Skills
